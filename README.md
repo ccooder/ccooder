@@ -1,6 +1,6 @@
 ### 大道至简
 
-![My GitHub](https://github-readme-stats.vercel.app/api?username=ccooder&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
+![My GitHub](https://github-readme-stats.vercel.app/api?username=ccooder&count_private=true&show_icons=true&theme=solarized-light&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccooder&theme=dark&count_private=true&show_icons=true&layout=compact)
 
